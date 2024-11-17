@@ -1,4 +1,4 @@
-#                                                                             SQL Pizza Sales project
+# Pizza Sales Analysis using SQL
 
 
 # About Project
