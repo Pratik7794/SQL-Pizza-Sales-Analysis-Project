@@ -34,6 +34,12 @@ The Pizza Sales Analysis Project aims to analyze the sales data of a pizza resta
 2. The barbecue chicken pizza
 3. The california chicken pizza
 
+   
+•	highest revenue growth % and month name - 9.95%, november
+
+•	highest revenue degrowth % and month name - (-6%), september
+
+
 
 # Conclusion
 
