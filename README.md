@@ -35,10 +35,6 @@ To conduct a comprehensive analysis of pizza sales data using SQL queries to unc
 3. The california chicken pizza
 
    
-•	Highest revenue growth % and month name - 9.95%, november
-
-•	Highest revenue degrowth % and month name - (-6%), september
-
 
 
 # Conclusion
